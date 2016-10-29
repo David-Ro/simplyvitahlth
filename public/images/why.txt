@@ -1,3 +1,4 @@
 The png image shows a symbol of new data per person
 being generated and sent to the Ether, to the cloud. 
-The new data is generated in a structured environment. 
+The new data is generated in a structured environment.
+The background grid symbolizes data filters.
