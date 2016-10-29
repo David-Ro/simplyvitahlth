@@ -1,8 +1,10 @@
-Simplyvitahlth is one of three pieces that work together in one-way flows (like in a money circle). The hashed components here are de-identified. Identity is retrievable outside this blockchain, through another blockchain. Any person can thereby get their personal puzzle re- pieced back together, since the person knows the pieces (where they were, with whom, which subject was discussed) and they have the means to activate the assembly of their personal aggregate file, and without informing anyone internal to this system or the associated systems, whether the "anyone" is a provider or any other role.
+Simplyvitahlth is one of three pieces that work together in a one-way flow among the three (like in a money circle).
+
+The hashed components here are de-identified. Identity is retrievable outside this blockchain, through another blockchain. Any person can thereby get their personal puzzle re- pieced back together, since the person knows the pieces (where they were, with whom, which subject was discussed) and they have the means to activate the assembly of their personal aggregate file, and without informing anyone internal to this system or the associated systems, whether the "anyone" is a provider or any other role.
 
 Service providers work together to manage the shareable information of their people. The use of blockchain technology enables providers to view records across all providers: the records are authenticated and non-repudiable, viewable in realtime (i.e. simultaneously).
 
-Caveat: trends are revealed in data, metadata and metametada, that impact our insurability, hirability, and security (safety). So sharing requires strong de-identification and one-way checks. The right care pathway must follow in the right order by the right providers. More about this, later. 
+Caveat: trends are revealed in data, metadata and metametadata, that impact our insurability, hirability, and security (safety). So sharing requires strong de-identification and one-way checks. The right care pathway must follow in the right order by the right providers. More about this, later. 
 
 Simplyvitahlth allows providers to share CCD-level files, and allows higher-order access to administrators and coordinators. Also, authorized stakeholders (e.g. payors) can audit with real time access, and can dig into event history data e.g. to identify root causes where results deviate significantly from averages.
 
