@@ -30,7 +30,7 @@ geth --dev --datadir="/tmp/eth/60/01" --etherbase 0xDDF083793273Dbb490282e09007E
 
 In another terminal go to the project file and perform node app.js
 
-This will demo simple data storage, with viewing. It shows a "smart contract" in the Ethereum sense of smart contract.
+This demo's data storage and viewing. It is a "smart contract" in the Ethereum sense of smart contract.
 
 
 
