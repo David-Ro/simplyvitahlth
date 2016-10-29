@@ -1,4 +1,7 @@
 The png image shows a symbol of new data per person
-being generated and sent to the Ether, to the cloud. 
+being generated and sent to the Ether, to the cloud.
+
 The new data is generated in a structured environment.
+Much is known about the environment from which the data is generated.
+
 The background grid symbolizes data filters.
