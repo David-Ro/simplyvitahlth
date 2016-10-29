@@ -1,11 +1,10 @@
+Simplyvitahlth is one of three pieces that work together in one-way flows (like in a money circle). The hashed components here are de-identified. Identity is retrievable outside this blockchain, through another blockchain. Any person can thereby get their personal puzzle re- pieced back together, since the person knows the pieces (where they were, with whom, which subject was discussed) and they have the means to activate the assembly of their personal aggregate file, and without informing anyone internal to this system or the associated systems, whether the "anyone" is a provider or any other role.
 
-Simplyvitahlth is one of three pieces that work together in one-way flows (like in a money circle). The hashed components here are de-identified. Identity is retrievable outside this blockchain.
+Service providers work together to manage the shareable information of their people. The use of blockchain technology enables providers to view authenticated non-repudiable records simultaneously across all providers.
 
-Service providers to work together to manage the shareable information of their people. The use of blockchain technology enables providers to view authenticated non-repudiable records simultaneously across all teams of providers.
+Caveat: trends are revealed in data, metadata and metametada, that impact our insurability, hirability, and security (safety). So sharing requires strong de-identification and one-way checks. The right care pathway must follow in the right order by the right providers. More about this, later. 
 
-Caveat: data / metadata reveal trends, that impact our insurability, hirability, and security (safety). So sharing requires strong de-identification and one-way checks. The right care pathway must follow in the right order by the right providers. Momre about this, later. 
-
-Simplyvitahlth allows providers to share CCD-level files, and allow higher-order access to administrators and coordinators. Also, authorized payors can audit with real time access, and can dig into event history data to identify root causes where results deviate significantly from averages.
+Simplyvitahlth allows providers to share CCD-level files, and allows higher-order access to administrators and coordinators. Also, authorized stakeholders (e.g. payors) can audit with real time access, and can dig into event history data e.g. to identify root causes where results deviate significantly from averages.
 
 
 Instructions for this fork.
@@ -29,7 +28,7 @@ geth --dev --datadir="/tmp/eth/60/01" --etherbase 0xDDF083793273Dbb490282e09007E
 
 In another terminal go to the project file and perform node app.js
 
-This will demo simple data storage with viewing. It shows a "smart contract" in the Ethereum sense of smart contract.
+This will demo simple data storage, with viewing. It shows a "smart contract" in the Ethereum sense of smart contract.
 
 
 
